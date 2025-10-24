@@ -1,10 +1,7 @@
-IEEE-PROJECT-2025/
-├── app.py                 # MAIN APP (You handle)
-├── requirements.txt       # DEPENDENCIES  
-├── README.md             # DOCUMENTATION
-├── src/
-│   ├── chatbot.py        # AI Brain (Riya)
-│   ├── database.py       # Student data (Sandesh)
-│   └── ui.py            # Interface (Yeshaswini)
-└── assets/
-    └── images/          # Screenshots for README
+streamlit==1.28.0
+pandas==2.0.3
+transformers==4.35.0
+torch==2.1.0
+speechrecognition==3.10.0
+gtts==2.3.2
+plotly==5.17.0
