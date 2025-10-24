@@ -1,0 +1,10 @@
+IEEE-PROJECT-2025/
+├── app.py                 # MAIN APP (You handle)
+├── requirements.txt       # DEPENDENCIES  
+├── README.md             # DOCUMENTATION
+├── src/
+│   ├── chatbot.py        # AI Brain (Riya)
+│   ├── database.py       # Student data (Sandesh)
+│   └── ui.py            # Interface (Yeshaswini)
+└── assets/
+    └── images/          # Screenshots for README
